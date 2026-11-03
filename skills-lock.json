@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-sdk": {
+      "source": "vercel/ai",
+      "sourceType": "github",
+      "skillPath": "skills/use-ai-sdk/SKILL.md",
+      "computedHash": "d6910e7d8bb527d2823ba58b6225b304ae649c135fc7e43ec2d2152251c218db"
+    },
+    "architect": {
+      "source": "JavaScript-Mastery-Pro/jsm-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/architect/SKILL.md",
+      "computedHash": "686bd8b5606ad628da5cceced15b9c5155bff8f1666c7f8d0cd498fdd34dbb3f"
+    },
+    "clerk": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk/SKILL.md",
+      "computedHash": "c5f37de2849cf786ecb594f3cf62e94cf7c5f5367d2e8174e2b3a7dd852d1225"
+    },
+    "clerk-backend-api": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-backend-api/SKILL.md",
+      "computedHash": "f546f7a163670ff580271573e52e01f2a539fcbd6b3b2d6dd714656f60ee1a65"
+    },
+    "clerk-billing": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-billing/SKILL.md",
+      "computedHash": "e0b5faaf5866b5964f1b0a6f9c0f80f1b1588ab466f5a4fc3dd891b66a4bdc26"
+    },
+    "clerk-cli": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-cli/SKILL.md",
+      "computedHash": "5718975b64d8a91b8abd0b063f1c29545cf2b86a3191f2dc802037823ae51e17"
+    },
+    "clerk-custom-ui": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-custom-ui/SKILL.md",
+      "computedHash": "ab1a18230efbd7f182731ac01cb8b7b84b05d5fe3bf5bc905d30e1af96633fc3"
+    },
+    "clerk-nextjs-patterns": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-nextjs-patterns/SKILL.md",
+      "computedHash": "208b936809f814fa0aa2a6e15b2e880b8b9fee5f0b3ca4fce9ac2f2ea7472418"
+    },
+    "clerk-orgs": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-orgs/SKILL.md",
+      "computedHash": "f066158c8fccc608d9fed605e8abe2dabb933187ec2c8606366ac3d7a52f53c1"
+    },
+    "clerk-setup": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-setup/SKILL.md",
+      "computedHash": "2ece6f11c35ba3420ca340e6b0ecd86caec149b7012d71c8625ee16f542a77f9"
+    },
+    "clerk-testing": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-testing/SKILL.md",
+      "computedHash": "7a103e04442822f0e8e11184e11e92fea143723817dba8c5f06fd71dab86c4ad"
+    },
+    "clerk-webhooks": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-webhooks/SKILL.md",
+      "computedHash": "2e09a26af49fcd7081b9c370e9c2008f1ff5ee4474141fd2c693431358c9e4ec"
+    },
+    "imprint": {
+      "source": "JavaScript-Mastery-Pro/jsm-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/imprint/SKILL.md",
+      "computedHash": "ee690f88ca7b099220f8f895b12ef84ed7a2e1a1ce988d92ccd82fac4cfe3e36"
+    },
+    "recover": {
+      "source": "JavaScript-Mastery-Pro/jsm-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/recover/SKILL.md",
+      "computedHash": "d789f53babb890247275f793cd72eac3295159819db878fdae5f1dbd21ff7d83"
+    },
+    "remember": {
+      "source": "JavaScript-Mastery-Pro/jsm-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/remember/SKILL.md",
+      "computedHash": "5ab74d5ccf24c96c61292920fd980341b97846f52114710e18c519923cf874a1"
+    },
+    "review": {
+      "source": "JavaScript-Mastery-Pro/jsm-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/review/SKILL.md",
+      "computedHash": "8838f4c248a8145dc9758a477ec4d6e9889b4a5ce96a60f85e5b54470bf0ff27"
+    },
+    "supabase": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase/SKILL.md",
+      "computedHash": "af1844ade632808fc0c15cf2db87daf3b2431c5262dc8a0c3ea7d70880fadf91"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "128fac78002d916c8ca908245d398e634f540d8bcf20915b2b2359aeb18eba59"
+    },
+    "web-scraper-api": {
+      "source": "oxylabs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-scraper-api/SKILL.md",
+      "computedHash": "9f7561982f95f96b759af0cf9ee4e1a9e8bd41156b6c0711fdc7299326f57c5d"
+    }
+  }
+}
