@@ -19,6 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 The design system is available at [http://localhost:3000/design-system](http://localhost:3000/design-system).
 
+## Development database seed
+
+After configuring the Supabase variables in `.env.local`, run [supabase/schema.sql](supabase/schema.sql) in Supabase Dashboard → SQL Editor, then run [supabase/seed.sql](supabase/seed.sql). The seed is safe to re-run and adds only the configured source homepages; it does not add articles, scrape sources, or create scheduler records.
+
 ## Available commands
 
 ```bash
